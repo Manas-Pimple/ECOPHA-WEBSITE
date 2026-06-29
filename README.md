@@ -128,6 +128,6 @@ This project was originally designed in Figma and includes automated asset resol
 
 ---
 
-**Original Figma Design**: [Futuristic Sustainability Website Design](https://www.figma.com/design/6qhpfeExdigkhZ8PITBzgp/Futuristic-Sustainability-Website-Design)
+
 
 **Partnership**: Developed in collaboration with RMIT University
